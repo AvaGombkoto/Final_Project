@@ -15,5 +15,4 @@ Description and links of datasets:
     prettier and more natural space. (https://data.wprdc.org/dataset/city-trees)
     
   - Speed Bumps: Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with less speed bumbs means less worry when 
-    driving. (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41- 
-    ae8e-4de1-8405-157e05dc3640)
+    driving. (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640)
