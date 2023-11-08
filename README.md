@@ -1,5 +1,5 @@
 # Final_Project_Group
 
-**Team name: **
+**Team name:**
 
 Team members: Ava Gombkoto & Justin Atkins
