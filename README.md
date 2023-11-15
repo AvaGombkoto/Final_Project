@@ -2,7 +2,7 @@
 
 **Team name: The Ava & Justin Team**
 
-Team members: Ava Gombkoto (AJG258@pitt.edu) & Justin Atkins (JJA78@pitt.edu)
+**Team members:** Ava Gombkoto (AJG258@pitt.edu) & Justin Atkins (JJA78@pitt.edu)
 
 Description and links of datasets: 
 
@@ -16,3 +16,5 @@ Description and links of datasets:
     
   - Speed Bumps: Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with more speed bumbs means less worry of speeding 
     drivers when walking around. (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640)
+
+**Abstract:**
