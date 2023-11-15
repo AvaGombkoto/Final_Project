@@ -4,7 +4,7 @@
 
 **Team members:** Ava Gombkoto (AJG258@pitt.edu) & Justin Atkins (JJA78@pitt.edu)
 
-Description and links of datasets: 
+**Description and links of datasets:** 
 
   - City owned properties: This data contains city-owned properties from the eProperties Plus database. The data describe basic aspects of the property (square footage, 
     location, identification, etc.) and its geographically based assignment of various components of city infrastructure (police zone, council district, etc.). This 
