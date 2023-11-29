@@ -14,7 +14,7 @@
   - Trees: Trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division. This was chosen since more trees generally makes for a 
     prettier and more natural space. (https://data.wprdc.org/dataset/city-trees)
     
-  - Speed Bumps: Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with more speed bumbs means less worry of speeding 
+  - Speed Bumps (ava): Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with more speed bumbs means less worry of speeding 
     drivers when walking around. (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640)
 
 **Abstract:**
