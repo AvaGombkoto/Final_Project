@@ -17,4 +17,4 @@
   - Speed Bumps (ava): Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with more speed bumbs means less worry of speeding 
     drivers when walking around. (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps)
 
-**Abstract:**
+**Abstract:** In this project, we will determine the best neighborhood to live in using data from three different metrics. We will do this by evaluating the best neighborhoods per each metric of data, then drawing a conclusion based on the mixes of those seperate results.
