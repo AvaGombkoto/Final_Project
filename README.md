@@ -14,7 +14,7 @@
   - Trees: Trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division. This was chosen since more trees generally makes for a 
     prettier and more natural space. (https://data.wprdc.org/dataset/city-trees)
     
-  - Speed Bumps (ava): Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with more speed bumbs means less worry of speeding 
+  - Speed Bumps: Speed humps installed by the City of Pittsburgh to slow down traffic. This was chosen since an area with more speed bumbs means less worry of speeding 
     drivers when walking around. (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps)
 
 **Abstract:** In this project, we will determine the best neighborhood to live in using data from three different metrics. We will do this by evaluating the best neighborhoods per each metric of data, then drawing a conclusion based on the mesh of those seperate results.
